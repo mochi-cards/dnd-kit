@@ -26,15 +26,15 @@
     "dist"
   ],
   "dependencies": {
-    "@dnd-kit/utilities": "^3.0.0",
+    "@dnd-kit/utilities": "git+https://github.com/mochi-cards/dnd-kit.git#dnd-kit-utilities-v3.0.1-gitpkg",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
-    "@dnd-kit/core": "^4.0.2"
+    "@dnd-kit/core": "git+https://github.com/mochi-cards/dnd-kit.git#dnd-kit-core-v4.0.3-gitpkg"
   },
   "devDependencies": {
-    "@dnd-kit/core": "^4.0.2"
+    "@dnd-kit/core": "git+https://github.com/mochi-cards/dnd-kit.git#dnd-kit-core-v4.0.3-gitpkg"
   },
   "publishConfig": {
     "access": "public"

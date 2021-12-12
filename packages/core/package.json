@@ -32,7 +32,7 @@
   "dependencies": {
     "tslib": "^2.0.0",
     "@dnd-kit/accessibility": "^3.0.0",
-    "@dnd-kit/utilities": "^3.0.1"
+    "@dnd-kit/utilities": "git+https://github.com/mochi-cards/dnd-kit.git#dnd-kit-utilities-v3.0.1-gitpkg"
   },
   "publishConfig": {
     "access": "public"
